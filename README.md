@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ReversalReside/ReversalReside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Привет, я Егор Мостренов (ReversalReside)  
 
-Here are some ideas to get you started:
+### 💻 Разработчик | 🎮 Геймер | 🚀 Технологический энтузиаст  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ReversalReside)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/your_username)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/your_username)
+
+---
+
+## 🔥 Выбери стиль оформления  
+
+[➡️ Стандартный](#стандартный) | 
+[➡️ Тёмный](#тёмный) | 
+[➡️ Геймерский](#геймерский)
+
+---
+
+## 📌 Закреплённые проекты
+_(Будут отображаться автоматически)_
+
+</div>
+
+---
+
+## 🔹 Стандартный
+```markdown
+### 🛠️ Мои навыки:
+- Python, JavaScript, C++
+- Git, Docker, SQL
+- GameDev (Unity, Godot)
+
+### 🎯 Увлечения:
+🎮 Игры | 🎵 Музыка | 🚀 Космос
+
+[🔙 Назад](#выбери-стиль-оформления)
