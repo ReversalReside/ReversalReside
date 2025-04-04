@@ -12,8 +12,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 
 📊 **Статистика GitHub:**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ваш_ник)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact&theme=radical)](https://github.com/ваш_ник)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ReversalReside)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact&theme=radical)](https://github.com/ReversalReside)  
 
 📫 **Как связаться:**  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/ваш_ник)  
