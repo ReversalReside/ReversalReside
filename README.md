@@ -25,3 +25,7 @@ print(f"{dev.name}, {dev.age} лет, родился в {dev.birthplace}")
 print(f"ТГ: {dev.links['tg']} | Портфолио: {dev.links['portfolio']}")
 print(dev.code("бот")) 
 ```
+---
+<div align="center">
+  <sub><sup>Soon here can be matrix (statics.)</sup></sub>
+</div>
