@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/banner.gif"
+  <img src="src/banner_corner.gif">
 </div>
 
 ```python
