@@ -12,7 +12,7 @@ class ReversalReside:
         self.birthplace = "с.Смоленск, Алтайский край"
         self.stacks = ["Python", "JS", "Java", "Rust", "C++"]
         self.traits = {"выгорание": "быстрое", "софтскилы": "коммуникабельный", "мотивация": "ленивый"}
-        self.links = {"portfolio": "https://ReversalReside.code", "tg": "@Vu4erk"}
+        self.links = {"portfolio": "https://reversalresideditigal.vercel.app", "tg": "@Vu4erk"}
         
     def code(self, task):
         if self.traits["мотивация"] == "ленивый":
